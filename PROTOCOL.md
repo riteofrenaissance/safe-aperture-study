@@ -1,4 +1,3 @@
-قبل ذلك ارفع هءا المحتوى الى protocole
 # Safe Aperture Micro-Pilot Study Protocol v1.0
 
 
@@ -11,7 +10,8 @@
 
 ## 1. BACKGROUND
 
-### 1.1 RationaleIntolerance of uncertainty (IU) is a transdiagnostic cognitive vulnerability linked to anxiety disorders, depression, and impaired decision-making under ambiguity. Traditional interventions (CBT, mindfulness) address IU indirectly. Safe Aperture proposes a direct, graduated exposure approach specifically targeting ambiguity tolerance.
+### 1.1 Rationale 
+Intolerance of uncertainty (IU) is a transdiagnostic cognitive vulnerability linked to anxiety disorders, depression, and impaired decision-making under ambiguity. Traditional interventions (CBT, mindfulness) address IU indirectly. Safe Aperture proposes a direct, graduated exposure approach specifically targeting ambiguity tolerance.
 
 ### 1.2 Theoretical Framework
 Safe Aperture is based on:
