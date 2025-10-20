@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/badge/Research-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Recruiting_Co--PI-orange)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17396753.svg)
 
 # 🔬 Safe Aperture Micro-Pilot Study
 
