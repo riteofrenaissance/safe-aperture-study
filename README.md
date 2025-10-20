@@ -1,12 +1,11 @@
 # 🔬 Safe Aperture Micro-Pilot Study
 
-> **Pre-registered RCT** • **Ambiguity Tolerance Training** • **Open Science**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17396753.svg)](https://doi.org/10.5281/zenodo.17396753)
+[![Platform](https://img.shields.io/badge/Platform-DOI_10.5281%2Fzenodo.17172637-blue)](https://doi.org/10.5281/zenodo.17172637)
+[![Study Status](https://img.shields.io/badge/Status-Pre--registered-blue)]()
+[![Phase](https://img.shields.io/badge/Phase-IRB_Submission-orange)]()
+[![License](https://img.shields.io/badge/License-CC--BY--4.0-green)](LICENSE)
 
-
-![GitHub](https://img.shields.io/badge/Research-Active-brightgreen)
-![Status](https://img.shields.io/badge/Status-Recruiting_Co--PI-orange)
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17396753.svg)
-[![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-green)](LICENSE)
 
 ## 🎯 Quick Overview
 
@@ -43,6 +42,44 @@
 - Assess intervention acceptability and adherence  
 - Explore effects on intolerance of uncertainty and anxiety
 - Identify predictors of treatment response
+
+# في README.md، تأكد من وجود هذا القسم:
+
+## 🌐 Intervention Platform
+
+The Safe Aperture training program is delivered via an interactive web platform.
+
+**🔗 Platform Repository:**
+[riteofrenaissance/riteofrenaissance](https://github.com/riteofrenaissance/riteofrenaissance)
+
+**📖 Platform DOI:**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17172637.svg)](https://doi.org/10.5281/zenodo.17172637)
+
+**🎯 Live Platform:**
+[https://riteofrenaissance.github.io/riteofrenaissance/safe_aperture_simulation.html](https://riteofrenaissance.github.io/riteofrenaissance/safe_aperture_simulation.html)
+
+**Features:**
+- 5 progressive levels (everyday → existential ambiguity)
+- Built-in safety protocols (Emergency Exit)
+- Self-paced, accessible anywhere
+- No login required
+
+---
+
+## 📖 How to Cite
+
+### Citing This Study Protocol
+
+Rite of Renaissance. (2025). Safe Aperture Micro-Pilot Study: 
+Pre-registered Protocol (Version 1.0-preregistration). Zenodo. 
+https://doi.org/10.5281/zenodo.17396753
+
+
+### Citing the Intervention Platform
+
+Rite of Renaissance. (2025). Rite of Renaissance: Safe Aperture and 
+Philosophical Protocols (Version 1.0.0). Zenodo. 
+https://doi.org/10.5281/zenodo.17172637
 
 ## 🔗 Links & Contact
 
