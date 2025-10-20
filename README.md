@@ -43,8 +43,6 @@
 - Explore effects on intolerance of uncertainty and anxiety
 - Identify predictors of treatment response
 
-# في README.md، تأكد من وجود هذا القسم:
-
 ## 🌐 Intervention Platform
 
 The Safe Aperture training program is delivered via an interactive web platform.
