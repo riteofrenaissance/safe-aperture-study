@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1079557237.svg)](https://doi.org/10.5281/zenodo.17396753)
+
 # 🔬 Safe Aperture Micro-Pilot Study
 
 > **Pre-registered RCT** • **Ambiguity Tolerance Training** • **Open Science**
