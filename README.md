@@ -1,150 +1,158 @@
-# Safe Aperture Micro-Pilot Study
+Safe Aperture Micro-Pilot Study
 
-[![Study Status](https://img.shields.io/badge/Status-Pre--registered-blue)](https://github.com/riteofrenaissance/safe-aperture-study)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-<!-- DOI badge will be added after Zenodo release -->
+https://img.shields.io/badge/Status-Pre--registered-blue
+https://img.shields.io/badge/Phase-IRB_Submission-orange
+https://img.shields.io/badge/License-CC--BY--4.0-green
 
-## Overview
-
-Randomized controlled pilot study (N=30) testing the efficacy of **Safe Aperture**, a graduated ambiguity tolerance training program.
-
-**Timeline:** December 2025 - February 2026  
-**Funding:** Self-funded ($5,000)  
-**Status:** Pre-registered, IRB submission in progress
+A pre-registered randomized controlled pilot study testing the efficacy of Safe Aperture training for increasing ambiguity tolerance.
 
 ---
 
-## Research Question
+📋 Study Summary
 
-Does a 4-week Safe Aperture training program increase ambiguity tolerance compared to waitlist control?
-
----
-
-## Design
-
-- **Type:** Randomized controlled pilot
-- **Sample:** N=30 adults (18-65 years)
-- **Groups:** 
-  - Intervention (n=15): Safe Aperture training (Levels 1-3)
-  - Waitlist Control (n=15): No intervention during active period
-- **Duration:** 4 weeks active + 4 weeks follow-up
-- **Delivery:** Web-based via [Safe Aperture platform](https://riteofrenaissance.github.io/riteofrenaissance/safe_aperture_simulation.html)
+Element Description
+Design Randomized Controlled Pilot Trial
+Sample N = 30 adults (18-65 years)
+Groups Intervention (n=15) vs. Waitlist Control (n=15)
+Duration 4 weeks active intervention + 4 weeks follow-up
+Primary Outcome Tolerance of Ambiguity Scale (TAS)
+Timeline December 2025 - February 2026
+Status Pre-registered, IRB submission in progress
 
 ---
 
-## Measures
+🎯 Research Question
 
-### Primary Outcome
-- **Tolerance of Ambiguity Scale (TAS)** - McLain (2009)
-  - Timepoints: Baseline, Week 4, Week 8
-
-### Secondary Outcomes
-- **Intolerance of Uncertainty Scale (IUS-12)** - Carleton et al. (2007)
-- **Generalized Anxiety Disorder Scale (GAD-7)** - Spitzer et al. (2006)
+Does a 4-week graduated Safe Aperture training program increase tolerance of ambiguity compared to waitlist control?
 
 ---
 
-## Repository Contents
+🧪 Study Design
+
+Participants
+
+Inclusion:
+
+· Age 18-65 years
+· Fluent in English
+· Daily internet access
+· Willing to commit 10-20 min/day for 4 weeks
+
+Exclusion:
+
+· Active suicidal ideation
+· History of psychotic disorder
+· Severe untreated depression
+· Current participation in other psychological intervention
+
+Intervention
+
+Experimental Group: Safe Aperture Training (Levels 1-3)
+
+Level Duration Focus Time/Day
+Level 1 Weeks 1-2 Everyday ambiguity 10 min
+Level 2 Week 3 Interpersonal ambiguity 15 min
+Level 3 Week 4 Conceptual ambiguity 20 min
+
+Control Group: Waitlist (offered training after Week 8)
+
+---
+
+📊 Measures
+
+Primary Outcome
+
+Tolerance of Ambiguity Scale (TAS) - McLain (2009)
+
+· Timepoints: Baseline, Week 4, Week 8
+
+Secondary Outcomes
+
+· Intolerance of Uncertainty Scale (IUS-12) - Carleton et al. (2007)
+· Generalized Anxiety Disorder Scale (GAD-7) - Spitzer et al. (2006)
+
+---
+
+📁 Repository Contents
 
 ```
 safe-aperture-study/
-├── README.md                    # This file
-├── PROTOCOL.md                  # Detailed study protocol
-├── PRE-REGISTRATION.md          # Pre-registered hypotheses & analysis plan
-├── measures/
-│   ├── TAS.pdf                  # Tolerance of Ambiguity Scale
-│   ├── IUS-12.pdf              # Intolerance of Uncertainty Scale
-│   └── GAD-7.pdf               # Generalized Anxiety Disorder Scale
-├── materials/
-│   ├── consent_form.md         # Informed consent template
-│   ├── recruitment_flyer.pdf   # Participant recruitment materials
-│   └── screening_form.md       # Eligibility screening questionnaire
-├── analysis/
-│   ├── analysis_plan.R         # Pre-registered analysis script (to be added)
-│   └── power_analysis.R        # Sample size justification
-└── data/
-    └── (Data will be added after collection - deidentified)
+│
+├── README.md                       # This file
+├── PROTOCOL.md                     # Complete detailed protocol
+├── PRE-REGISTRATION.md            # Pre-registered analysis plan
+├── LICENSE                         # CC-BY-4.0
+│
+├── measures/                       # Measurement instruments
+│   ├── TAS_McLain2009.pdf         # Tolerance of Ambiguity Scale
+│   ├── IUS-12_Carleton2007.pdf    # Intolerance of Uncertainty Scale
+│   └── GAD-7_Spitzer2006.pdf      # Generalized Anxiety Disorder scale
+│
+├── materials/                      # Study materials
+│   ├── consent_form.md            # Informed consent template
+│   ├── recruitment_flyer.pdf      # Participant recruitment
+│   ├── screening_form.md          # Eligibility questionnaire
+│   └── debriefing_script.md       # Post-study debriefing
+│
+├── analysis/                       # Analysis scripts
+│   ├── analysis_plan.R            # Pre-registered analysis code
+│   ├── power_analysis.R           # Sample size justification
+│   └── data_cleaning.R            # Data preparation script
+│
+└── data/                           # Data files
+    ├── README_data.md             # Data dictionary
+    ├── raw_data_deidentified.csv  # Raw data (anonymized)
+    └── processed_data.csv         # Analysis-ready data
 ```
 
 ---
 
-## Pre-registration
+💰 Budget
 
-This study is **pre-registered before any data collection**. All hypotheses, methods, and planned analyses are documented in:
-
-- **Full Protocol:** [`PROTOCOL.md`](PROTOCOL.md)
-- **Pre-registration:** [`PRE-REGISTRATION.md`](PRE-REGISTRATION.md)
-
-**Zenodo DOI:** [Will be added after release]
-
----
-
-## Intervention: Safe Aperture
-
-Safe Aperture is a graduated training program using structured exposure to ambiguous stimuli.
-
-**Structure:**
-- **Level 1 (Weeks 1-2):** Everyday ambiguity (10 min/day)
-- **Level 2 (Week 3):** Interpersonal ambiguity (15 min/day)  
-- **Level 3 (Week 4):** Conceptual ambiguity (20 min/day)
-
-**Platform:** [https://riteofrenaissance.github.io/riteofrenaissance/safe_aperture_simulation.html](https://riteofrenaissance.github.io/riteofrenaissance/safe_aperture_simulation.html)
-
-**Safety Features:**
-- Emergency Exit button
-- Weekly check-ins
-- Distress monitoring protocol
+Item Cost
+Participant compensation $3,000
+Essential Software & Tools $800
+Publication Costs $600
+Platform Maintenance $400
+Contingency $200
+Total $5,000
 
 ---
 
-## Timeline
+🗓️ Timeline
 
-| Phase | Duration | Dates (Estimated) |
-|-------|----------|-------------------|
-| IRB Approval | 2-3 weeks | Nov 2025 |
-| Recruitment | 2 weeks | Nov-Dec 2025 |
-| Baseline Assessment | 1 week | Late Nov 2025 |
-| Active Intervention | 4 weeks | Dec 2025 |
-| Follow-up | 4 weeks | Jan 2026 |
-| Analysis & Writeup | 3 weeks | Jan-Feb 2026 |
-| Preprint Publication | - | Feb 2026 |
-
----
-
-## Team
-
-- **Principal Investigator:** [TBD - seeking academic partner]
-- **Funder/Project Coordinator:** Rite of Renaissance
-- **Research Assistant:** [TBD - to be hired]
-- **Statistical Consultant:** [TBD]
+Phase Duration Status
+Protocol Development Oct 2025 ✅ Complete
+IRB Submission Nov 2025 🔄 In Progress
+Recruitment Late Nov 2025 ⏳ Pending
+Active Intervention Dec 2025 ⏳ Pending
+Follow-up Assessment Jan 2026 ⏳ Pending
+Data Analysis Late Jan 2026 ⏳ Pending
+Manuscript Writing Feb 2026 ⏳ Pending
 
 ---
 
-## Funding & Budget
+👥 Research Team
 
-**Total Budget:** $5,000
-
-| Item | Cost |
-|------|------|
-| Participant compensation (30 × $50) | $1,500 |
-| Research Assistant (3 months, part-time) | $2,500 |
-| Survey platform & tools | $0 (via university) |
-| IRB fees | $0 (via university) |
-| Contingency | $1,000 |
+Role Status
+Principal Investigator Seeking academic partner
+Project Coordinator Rite of Renaissance
+Research Assistant To be hired
+Statistical Consultant To be contracted
 
 ---
 
-## Ethics & Transparency
+🔐 Ethics & Data Protection
 
-- **IRB Approval:** To be obtained from [University - TBD]
-- **Informed Consent:** Required from all participants
-- **Data Protection:** Deidentified data, secure storage
-- **Open Science:** All materials, data, and analysis scripts will be publicly shared
-- **Pre-registration:** Committed to publishing results regardless of outcome
+· IRB approval pending (academic partnership)
+· Full informed consent process
+· Data de-identification and secure storage
+· Adverse event monitoring protocol
+· Public sharing of de-identified data after publication
 
 ---
 
-## How to Cite
+📖 How to Cite
 
 ```
 Rite of Renaissance. (2025). Safe Aperture Micro-Pilot Study: 
@@ -152,30 +160,26 @@ Pre-registered Protocol. GitHub.
 https://github.com/riteofrenaissance/safe-aperture-study
 ```
 
-*(After Zenodo DOI: update with DOI citation)*
+DOI will be added after Zenodo release
 
 ---
 
-## Contact
+🔗 Links
 
-**Email:** riteofrenaissance@gmail.com  
-**Website:** [Rite of Renaissance](https://riteofrenaissance.github.io/riteofrenaissance/)  
-**Platform:** [Safe Aperture Simulation](https://riteofrenaissance.github.io/riteofrenaissance/safe_aperture_simulation.html)
-
----
-
-## License
-
-This research protocol and all materials are released under the [MIT License](LICENSE).
-
-Data will be released under CC-BY 4.0 after publication.
+· Study Protocol: PROTOCOL.md
+· Pre-registration: PRE-REGISTRATION.md
+· Intervention Platform: Safe Aperture Simulation
+· Product Repository: riteofrenaissance/riteofrenaissance
+· Contact: riteofrenaissance@gmail.com
 
 ---
 
-## Acknowledgments
+📜 License
 
-This is an independent research initiative funded by Rite of Renaissance to advance understanding of ambiguity tolerance training.
+Protocol & Materials: CC-BY-4.0
+Data: CC-BY-4.0 (after publication)
 
 ---
 
-**Last Updated:** October 20, 2025
+Last Updated: October 20, 2025
+Protocol Version: 1.0
