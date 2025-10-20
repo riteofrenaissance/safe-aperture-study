@@ -1,10 +1,10 @@
-[![DOI](https://zenodo.org/badge/1079557237.svg)](https://doi.org/10.5281/zenodo.17396753)
 
 # 🔬 Safe Aperture Micro-Pilot Study
 
 > **Pre-registered RCT** • **Ambiguity Tolerance Training** • **Open Science**
 
-[![Pre-registered](https://img.shields.io/badge/Pre--registered-AsPredicted%20%23252740-blue)](https://aspredicted.org/252740)
+
+[![DOI](https://zenodo.org/badge/1079557237.svg)](https://doi.org/10.5281/zenodo.17396753)[![Pre-registered](https://img.shields.io/badge/Pre--registered-AsPredicted%20%23252740-blue)](https://aspredicted.org/252740)
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-IRB%20Submission-orange)](https://github.com/riteofrenaissance/safe-aperture-study)
 
