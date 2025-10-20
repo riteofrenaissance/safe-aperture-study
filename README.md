@@ -1,15 +1,12 @@
-![GitHub](https://img.shields.io/badge/Research-Active-brightgreen)
-![Status](https://img.shields.io/badge/Status-Recruiting_Co--PI-orange)
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17396753.svg)
-
 # 🔬 Safe Aperture Micro-Pilot Study
 
 > **Pre-registered RCT** • **Ambiguity Tolerance Training** • **Open Science**
 
 
-[![DOI](https://zenodo.org/badge/1079557237.svg)](https://doi.org/10.5281/zenodo.17396753)[![Pre-registered](https://img.shields.io/badge/Pre--registered-AsPredicted%20%23252740-blue)](https://aspredicted.org/252740)
+![GitHub](https://img.shields.io/badge/Research-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Recruiting_Co--PI-orange)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17396753.svg)
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-green)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-IRB%20Submission-orange)](https://github.com/riteofrenaissance/safe-aperture-study)
 
 ## 🎯 Quick Overview
 
