@@ -59,7 +59,7 @@ The Safe Aperture training program is delivered via an interactive web platform.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17172637.svg)](https://doi.org/10.5281/zenodo.17172637)
 
 **🎯 Live Platform:**
-🎯 Platform Demo: https://riteofrenaissance.github.io/safe-aperture-study/
+https://riteofrenaissance.github.io/safe-aperture-study/
 
 **Features:**
 - 5 progressive levels (everyday → existential ambiguity)
