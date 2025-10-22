@@ -105,6 +105,11 @@ The proposal includes:
 - **Budget:** $5,000 (fully funded)
 - **Timeline:** 6 months (Nov 2025 - April 2026)
 
+## Measures
+   - [TAS](measures/TAS.pdf) - Tolerance of Ambiguity Scale
+   - [IUS-12](measures/IUS-12.pdf) - Intolerance of Uncertainty
+   - [GAD-7](measures/GAD-7.pdf) - Generalized Anxiety Disorder
+
 ## 🔗 Links & Contact
 
 - **Email:** riteofrenaissance@proton.me
