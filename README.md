@@ -23,18 +23,23 @@
 | [`PRE-REGISTRATION.md`](PRE-REGISTRATION.md) | AsPredicted pre-registration document |
 | [`LICENSE`](LICENSE) | CC-BY-4.0 open license |
 
-## 📊 Study Specifications
+## 🎯 Study At-a-Glance
 
-| Aspect | Details |
-|--------|---------|
+| **Element** | **Details** |
+|-------------|-------------|
 | **Design** | Randomized Controlled Trial |
-| **Sample Size** | 30 participants (15 per group) |
-| **Intervention** | 4-week Safe Aperture training |
-| **Control** | Waitlist control group |
-| **Duration** | 8 weeks total (4 active + 4 follow-up) |
+| **Registration** | Pre-registered ([DOI](https://doi.org/10.5281/zenodo.17396753)) |
+| **Sample Size** | N=30 (15 per group) |
+| **Intervention** | Safe Aperture (graduated ambiguity training) |
+| **Duration** | 4 weeks active + 4 weeks follow-up |
 | **Primary Outcome** | Tolerance of Ambiguity Scale (TAS) |
-| **Timeline** | December 2025 - February 2026 |
-| **Status** | Pre-registered, IRB submission in progress |
+| **Secondary Outcomes** | IUS-12, GAD-7 |
+| **Delivery** | Web-based, fully remote |
+| **Budget** | $5,000 (self-funded) |
+| **Timeline** | November 2025 - April 2026 |
+| **Status** | Seeking PI partnership for IRB |
+
+### Budget Breakdown
 
 ## 🎯 Research Objectives
 
@@ -78,6 +83,27 @@ https://doi.org/10.5281/zenodo.17396753
 Rite of Renaissance. (2025). Rite of Renaissance: Safe Aperture and 
 Philosophical Protocols (Version 1.0.0). Zenodo. 
 https://doi.org/10.5281/zenodo.17172637
+
+## 📊 Research Proposal
+
+A comprehensive research proposal is available for review:
+
+**[View Research Proposal (PDF)](docs/RESEARCH_PROPOSAL_Safe_Aperture_2025.pdf)**
+
+The proposal includes:
+- Study rationale and significance
+- Complete methodology
+- Budget breakdown ($5,000)
+- Timeline (Nov 2025 - May 2026)
+- Team structure
+- Expected outcomes
+
+**Quick Facts:**
+- **Design:** Pre-registered RCT
+- **Sample:** N=30 (15 intervention, 15 control)
+- **Duration:** 4 weeks + 4 weeks follow-up
+- **Budget:** $5,000 (fully funded)
+- **Timeline:** 6 months (Nov 2025 - April 2026)
 
 ## 🔗 Links & Contact
 
