@@ -1,0 +1,23 @@
+
+
+cff-version: 1.2.0
+message: "If you use this study protocol or materials, please cite as follows:"
+title: "Safe Aperture Micro-Pilot Study: Pre-registered Protocol"
+authors:
+  - family-names: Baladi
+    given-names: Samir
+    affiliation: Rite of Renaissance
+    email: riteofrenaissance@proton.me
+version: 1.0
+date-released: 2025-10-22
+doi: 10.17605/OSF.IO/UTQFC
+url: https://github.com/riteofrenaissance/safe-aperture-study
+keywords:
+  - ambiguity tolerance
+  - uncertainty
+  - anxiety
+  - randomized controlled trial
+  - pre-registration
+  - open science
+license: CC-BY-4.0
+repository-code: https://github.com/riteofrenaissance/safe-aperture-study
