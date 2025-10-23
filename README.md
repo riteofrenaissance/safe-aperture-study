@@ -1,10 +1,17 @@
-# 🔬 Safe Aperture Micro-Pilot Study
+## 📋 Pre-registration
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17396753.svg)](https://doi.org/10.5281/zenodo.17396753)
-[![Platform](https://img.shields.io/badge/Platform-DOI_10.5281%2Fzenodo.17172637-blue)](https://doi.org/10.5281/zenodo.17172637)
-[![Study Status](https://img.shields.io/badge/Status-Pre--registered-blue)]()
-[![Phase](https://img.shields.io/badge/Phase-IRB_Submission-orange)]()
-[![License](https://img.shields.io/badge/License-CC--BY--4.0-green)](LICENSE)
+This study is **fully pre-registered** before data collection:
+
+| Platform | Link | Status |
+|----------|------|--------|
+| **OSF** | [10.17605/OSF.IO/UTQFC](https://doi.org/10.17605/OSF.IO/UTQFC) | ✅ Complete |
+| **AsPredicted** | [#252740](https://aspredicted.org/blind.php?x=252740) | ✅ Complete |
+| **Zenodo** | [10.5281/zenodo.17396753](https://doi.org/10.5281/zenodo.17396753) | ✅ Complete |
+
+**Registration Date:** October 22, 2025  
+**Data Collection:** December 2025 - February 2026
+
+See [PRE-REGISTRATION.md](PRE-REGISTRATION.md) for complete details.
 
 
 ## 🎯 Quick Overview
