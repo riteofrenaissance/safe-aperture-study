@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Safe Aperture Micro-Pilot Study"
+message: "If you use this study protocol, please cite it as below."
+authors:
+  - family-names: "Baladi"
+    given-names: "Samir"
+    affiliation: "Rite of Renaissance"
+doi: "10.5281/zenodo.17396753"
+url: "https://github.com/riteofrenaissance/safe-aperture-study"
+version: "1.0.0"
+date-released: 2025-10-20
+keywords:
+  - "ambiguity tolerance"
+  - "uncertainty"
+  - "randomized controlled trial"
+license: "MIT"
