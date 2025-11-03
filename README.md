@@ -68,6 +68,12 @@ The Safe Aperture training program is delivered via an interactive web platform.
 **🎯 Live Platform:**
 https://riteofrenaissance.github.io/safe-aperture-study/
 
+## Tools & Applications
+
+Results from this study inform:
+- **[ecf-compass](https://github.com/riteofrenaissance/ecf-compass)** - Real-time assessment
+- **[ecf-dashboard](https://github.com/riteofrenaissance/ecf-dashboard)** - Monitoring system
+
 **Features:**
 - 5 progressive levels (everyday → existential ambiguity)
 - Built-in safety protocols (Emergency Exit)
