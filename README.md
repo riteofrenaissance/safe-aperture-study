@@ -123,6 +123,14 @@ The proposal includes:
    - [IUS-12](measures/IUS-12.pdf) - Intolerance of Uncertainty
    - [GAD-7](measures/GAD-7.pdf) - Generalized Anxiety Disorder
 
+## 🔗 Related Projects
+
+### ECF Compass
+Interactive assessment tool implementing the study's principles
+- **Repository**: [ecf-compass](https://github.com/riteofrenaissance/ecf-compass)
+- **Demo**: [tinyurl.com/ecfcompass](https://tinyurl.com/ecfcompass)
+- **Status**: Prototype → Production development
+
 ## 🔗 Links & Contact
 
 - **Email:** riteofrenaissance@proton.me
